@@ -1,0 +1,9 @@
+colab-xterm
+langchain 
+langchain_community
+sse_starlette
+langserve 
+uvicorn 
+fastapi 
+pyngrok 
+pdfminer.six
